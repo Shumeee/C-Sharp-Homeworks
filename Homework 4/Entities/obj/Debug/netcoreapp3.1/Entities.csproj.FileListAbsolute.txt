@@ -1,0 +1,10 @@
+C:\Users\DELL\Desktop\Seavus\C#\Exercises\Class 6\Exercise 1\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\Users\DELL\Desktop\Seavus\C#\Exercises\Class 6\Exercise 1\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\DELL\Desktop\Seavus\C#\Exercises\Class 6\Exercise 1\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\DELL\Desktop\Seavus\C#\Exercises\Class 6\Exercise 1\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Seavus\C#\Exercises\Class 6\Exercise 1\Entities\obj\Debug\netcoreapp3.1\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Seavus\C#\Exercises\Class 6\Exercise 1\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Seavus\C#\Exercises\Class 6\Exercise 1\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Seavus\C#\Exercises\Class 6\Exercise 1\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Seavus\C#\Exercises\Class 6\Exercise 1\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\Users\DELL\Desktop\Seavus\C#\Exercises\Class 6\Exercise 1\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
